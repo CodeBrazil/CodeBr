@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 100%;
+}
+
+body {
+  background: #523dc7;
+}
+
+.navbar {
+  display: block;
+  height: 60px;
+  background: rgba(0, 0, 0, 0.8);
+  box-shadow: 1px 1px 12px #000;
+}
+
+/*# sourceMappingURL=style.css.map */
